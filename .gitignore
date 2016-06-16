@@ -1,0 +1,4 @@
+#Ignore environment variables
+.env
+wpscan-targets.txt
+wpscan-results.txt
